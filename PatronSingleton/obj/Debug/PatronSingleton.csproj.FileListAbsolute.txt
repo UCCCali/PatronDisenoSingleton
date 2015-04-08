@@ -1,0 +1,12 @@
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe.config
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.pdb
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.exe
+C:\Users\JuanGuillermo\Desktop\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe.config
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.exe
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.pdb
+D:\JGGomez\UCC\Ing. de Software I\Clase 5\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.csprojResolveAssemblyReference.cache
